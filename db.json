@@ -10,7 +10,7 @@
       { "id":8, "first_name": "Jackson", "last_name": "Adroa", "sex": "M" },
       { "id":9, "first_name": "Sarah", "last_name": "Mukisa", "sex": "F" },
       { "id":10, "first_name": "Boniface", "last_name": "Sanyu", "sex": "M" },
-      { "id":11, "first_name": "Judge", "last_name": "Kasembo", "sex": "M" },
+      { "id":11, "first_name": "Judge", "last_name": "Kasembo", "sex": "M" }
    ],
    "cases": [
    ],
