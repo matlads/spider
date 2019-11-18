@@ -1,4 +1,25 @@
 {
-   "profiles": [],
-   "cases": []
+   "profiles": [
+      { "id":1, "first_name": "Alex", "last_name": "Lee", "sex": "M"  },
+      { "id":2, "first_name": "Courtney", "last_name": "James", "sex": "F"  },
+      { "id":3, "first_name": "Deborah", "last_name": "Cox", "sex": "F"  },
+      { "id":4, "first_name": "David", "last_name": "Lubowa", "sex": "M"  },
+      { "id":5, "first_name": "George", "last_name": "William", "sex": "F"  },
+      { "id":6, "first_name": "Desire", "last_name": "Abbo", "sex": "F" },
+      { "id":7, "first_name": "Patience", "last_name": "Natukunda", "sex": "F" },
+      { "id":8, "first_name": "Jackson", "last_name": "Adroa", "sex": "M" },
+      { "id":9, "first_name": "Sarah", "last_name": "Mukisa", "sex": "F" },
+      { "id":10, "first_name": "Boniface", "last_name": "Sanyu", "sex": "M" },
+      { "id":11, "first_name": "Judge", "last_name": "Kasembo", "sex": "M" },
+   ],
+   "cases": [
+   ],
+   "crimes":[
+      { "id": 1, "name": "Assault" },
+      { "id": 2, "name": "Battery" },
+      { "id": 3, "name": "False Imprisonment" },
+      { "id": 4, "name": "Kidnapping" },
+      { "id": 5, "name": "Homicide" },
+      { "id": 6, "name": "Rape" }
+   ]
 }
